@@ -1,6 +1,8 @@
 # Contributing
 
-## Contributor License Agreement
+This repository does not accept external contributions. Pull requests from outside CoreWeave will be closed. If you've found a bug or have an idea for an API endpoint, please open an [issue](https://github.com/wandb/cwevals-go/issues) instead. Feedback submitted through issues or pull requests is subject to the [CoreWeave Contribution License Agreement (CLA)](./CLA.md).
+
+## Contribution License Agreement
 
 Contributors must agree to the [CoreWeave CLA](./CLA.md) when pushing code to this project.
 
